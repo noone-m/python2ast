@@ -22,7 +22,7 @@ python converter.py <file_name.py>
 For a Python file named `python_code.py`, use:
 
 ```sh
-python converter.py example.py
+python converter.py python_code.py
 ```
 
 ### ast would be :
